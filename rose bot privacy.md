@@ -7,7 +7,7 @@
 <ol>
 <li>
 <p><strong>Why do we need the data, and why do we use this data?</strong></p></strong>
-<li>I need data bc my bot need to know who played a song and which song they played also time for embeds too.</li>
+<li>I need this data bc my bot need to know who is playing songs and which songs they played also time for embeds too.</li>
 </li>
 <li>
 <p><strong>Other than Discord, do we share your data with any 3rd parties?</strong>
