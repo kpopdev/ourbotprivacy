@@ -4,7 +4,7 @@
 <ul>
 <li>i just store user ids so the bot know which songs is playing and which users played songs and playlists</li>
 </ul>
-<ol start="2">
+<ol>
 <li>
 <p><strong>Why do we need the data, and why do we use this data?</strong></p></strong>
 <li>I need data bc my bot need to know who played a song and which song they played also time for embeds too.</li>
