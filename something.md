@@ -1,5 +1,4 @@
-<div id="file-snowman_privacy_policy-md-readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><ol>
+
 <li><strong>What data does this bot store?</strong></li>
 </ol>
 <ul>
