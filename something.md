@@ -14,7 +14,7 @@
 <p><strong>Why do we need the data, and why do we use this data?</strong></p>
 <p>a) Guilds IDs' are stored for configuration settings (such as auto moderation, configuration settings and such.)</p>
 <p>b) Channel IDs' are stored for moderation settings (action logs and message logs)</p>
-<p>c) User IDs' are stored for moderation actions (such as mutes and temp bans)</p>
+<p>c) User IDs' are stored for moderation actions (such as mutes and temp bans also my bot need to know how much currency my users have for gambling and more.)</p>
 <p>d) Role IDs' are stored for mute role purposes only.</p>
 <p>e) Timezones' are stored on user request when using the <code>timezone</code> command, (running the command and passing no arguments removes the timezone from you.)</p>
 </li>
