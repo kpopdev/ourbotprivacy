@@ -2,16 +2,16 @@
 <li><strong>What data does this bot store?</strong></li>
 </ol>
 <ul>
-<li>i just store user ids so they bot know which songs is playing and which users played songs and playlists</li>
+<li>i just store user ids so the bot know which songs is playing and which users played songs and playlists</li>
 </ul>
 <ol start="2">
 <li>
 <p><strong>Why do we need the data, and why do we use this data?</strong></p>
-<li>i need data bc my bot need to know who played a song and which song they played and it need some userinfo commands too.</li>>
+<li>I need data bc my bot need to know who played a song and which song they played also time for embeds too.</li>>
 </li>
 <li>
 <p><strong>Other than Discord, do we share your data with any 3rd parties?</strong>
-No</p>
+No i dont.</p>
 </li>
 <li>
 <p><strong>How can users get data removed, or how can users contact the bot owner?</strong>
