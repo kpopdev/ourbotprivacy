@@ -15,7 +15,7 @@ No i dont.</p>
 </li>
 <li>
 <p><strong>How can users get data removed, or how can users contact the bot owner?</strong>
-They can contact me and add me as friend = https://discord.com/users/574290999489069057</p>
+They can contact me and add me as friend = https://discord.com/users/574290999489069057 also they can do .mydata command with my bot or %mydata . or % is prefix of my bot.</p>
 </li>
 </ol>
 </article>
