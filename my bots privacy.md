@@ -2,7 +2,7 @@
 <li><strong>What data does this bot store?</strong></li>
 </ol>
 <ul>
-<li>i i store user ids and server id because my bot have moderation and antispam and anti raid features also for play songs i need to save users and playlists.</li>
+<li>i store user ids and server id because my bot have moderation and antispam and anti raid features also for play songs i need to save users and playlists.</li>
 </ul>
 <ol>
 <li>
