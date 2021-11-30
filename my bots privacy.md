@@ -2,12 +2,12 @@
 <li><strong>What data does this bot store?</strong></li>
 </ol>
 <ul>
-<li>i just store user ids so the bot know which songs is playing and which users played songs and playlists</li>
+<li>i i store user ids and server id because my bot have moderation and antispam and anti raid features also for play songs i need to save users and playlists.</li>
 </ul>
 <ol>
 <li>
 <p><strong>Why do we need the data, and why do we use this data?</strong></p></strong>
-<li>I need this data bc my bot need to know who is playing songs and which songs they played also time for embeds too.</li>
+<li>I need these datas because my bot doing antispam and anti raid and also i need user ids and server ids for server settings and sending embeds after doing commands.</li>
 </li>
 <li>
 <p><strong>Other than Discord, do we share your data with any 3rd parties?</strong>
