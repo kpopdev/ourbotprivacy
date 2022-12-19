@@ -10,7 +10,7 @@ we dont save any datas from you or discord anywhere.
 
 you should never spam commands or abuse the bot. u should report bugs to the owner of bot.
 
-you will get blocked if you abuse or spam or trash talk about momo bot or other bots.
+you will get blocked if you abuse or spam or trash talk about my bot or other bots
 
 
 u can always tell us which features we should add to our bot. 
