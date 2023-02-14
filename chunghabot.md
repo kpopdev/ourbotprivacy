@@ -22,3 +22,4 @@
 	<p>For questions about this bot and update requests contact Kyla#4418 on discord.</p>
 	</li>
 </ol>
+
