@@ -1,5 +1,5 @@
 <ul>
-	<li><span style="color:#e74c3c"><strong>Chungha bot(624955196040282123) Privacy Policy</strong></span></li>
+	<li><span style="color:#e74c3c"><strong>instagram analizer Privacy Policy</strong></span></li>
 </ul>
 
 <ul>
@@ -20,5 +20,8 @@
 	</li>
 	<li>
 	<p>For questions about this bot and update requests contact Kyla#4418 on discord.</p>
+	</li>
+	<li>
+	<p>plesase do not spam any apis.</p>
 	</li>
 </ol>
