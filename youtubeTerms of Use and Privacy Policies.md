@@ -1,5 +1,5 @@
 <ul>
-	<li><span style="color:#e74c3c"><strong>instagram analizer Privacy Policy</strong></span></li>
+	<li><span style="color:#e74c3c"><strong>My Website Terms of Use and Privacy Policies for youtube api</strong></span></li>
 </ul>
 
 <ul>
@@ -14,14 +14,8 @@
 	<li>
 	<p><strong>Q: Questions and Concerns (Contact)</strong></p>
 	</li>
-	<li>A: If you are concerned about data stored, join the <a href="https://discord.gg/TfRMdDfSPc">bot support server</a> or DM Kyla#4418 on Discord.</li>
+	<li>A: If you are concerned about data stored send me a email on sanamina6969@gmail.com</a> or DM Kyla#4418 on Discord.</li>
 	<li>
-	<p><strong>Other than Discord, do we share your data with any 3rd parties?</strong>&nbsp; No i dont.</p>
-	</li>
-	<li>
-	<p>For questions about this bot and update requests contact Kyla#4418 on discord.</p>
-	</li>
-	<li>
-	<p>plesase do not spam any apis.</p>
+	<p><strong>Other than this website, do we share your data with any 3rd parties?</strong>&nbsp; No i dont.</p>
 	</li>
 </ol>
