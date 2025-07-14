@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chungha Bot Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chungha Bot Privacy Policy</h1>
+    <p><strong>Bot ID: 624955196040282123</strong></p>
+
+    <p>This Privacy Policy outlines how the Chungha Bot ("the Bot") collects, uses, and protects any information when you use its services on Discord. By adding or using the Bot, you agree to the terms of this Privacy Policy.</p>
+
+    <h2>1. Data Collection and Storage</h2>
+    <p>The Chungha Bot is designed with user privacy in mind. We want to be clear about what information, if any, is collected and stored:</p>
+    <ul>
+        <li><strong>No Personal Data Stored:</strong> Currently, the Chungha Bot does not collect, store, or process any personal data from its users, such as Discord IDs, usernames, messages, or server content.</li>
+        <li><strong>No User-Specific Data:</strong> The Bot does not store any user-specific configurations, settings, or preferences.</li>
+        <li><strong>No Command Logging:</strong> We do not log individual command usage in a way that could be linked back to specific users.</li>
+    </ul>
+    <p>In the event that future features require data storage, this Privacy Policy will be updated to reflect those changes, and users will be notified appropriately.</p>
+
+    <h2>2. Information Sharing</h2>
+    <p>The Chungha Bot does not share any data with third parties. As no user data is collected or stored, there is no information to share.</p>
+
+    <h2>3. Your Consent</h2>
+    <p>By inviting the Chungha Bot to your Discord server or interacting with it, you consent to the terms of this Privacy Policy.</p>
+
+    <h2>4. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and/or through our official support server. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+    <h2>5. Contact Us</h2>
+    <p>If you have any questions or concerns regarding this Privacy Policy or the Chungha Bot's data practices, please feel free to reach out:</p>
+    <ul>
+        <li><strong>Discord Support Server:</strong> Join our official support server for assistance and discussions: <a href="https://discord.gg/TfRMdDfSPc">https://discord.gg/TfRMdDfSPc</a></li>
+        <li><strong>Direct Message on Discord:</strong> You can also contact Kyla#4418 directly on Discord.</li>
+    </ul>
+</body>
+</html>
