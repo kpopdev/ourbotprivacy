@@ -12,13 +12,29 @@
             max-width: 800px;
             margin: 20px auto;
             padding: 0 20px;
+            background-color: #f4f4f4; /* Added a light background for better visibility */
+            border-radius: 8px; /* Slightly rounded corners */
+            box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Soft shadow */
         }
-        h1, h2 {
+        h1 {
             color: #2c3e50;
+            text-align: center; /* Centered heading */
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ccc; /* Separator under heading */
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            border-bottom: 1px solid #eee; /* Light separator under subheadings */
+            padding-bottom: 5px;
+        }
+        p {
+            margin-bottom: 10px;
         }
         ul {
             list-style-type: disc;
             margin-left: 20px;
+            padding-bottom: 10px;
         }
         a {
             color: #3498db;
@@ -26,6 +42,9 @@
         }
         a:hover {
             text-decoration: underline;
+        }
+        strong {
+            color: #555;
         }
     </style>
 </head>
